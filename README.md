@@ -23,5 +23,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNmMyZGMwZWMtZjU5ZC00ODMzLWFiYjMtY2RmN2VkY
 
 ### Файл PBIX для скачивания
 
-https://yadi.sk/d/9Vm_CAmO3PAo5p
-https://yadi.sk/d/cpOocE0A3PAo5r
+- https://yadi.sk/d/9Vm_CAmO3PAo5p
+
+- https://yadi.sk/d/cpOocE0A3PAo5r
